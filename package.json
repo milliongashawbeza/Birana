@@ -1,0 +1,22 @@
+{
+  "name": "birana",
+  "version": "1.0.0",
+  "description": "the offecial package for birana",
+  "main": "birana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milliongashawbeza/Birana.git"
+  },
+  "keywords": [
+    "birana"
+  ],
+  "author": "Million Gashawbeza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milliongashawbeza/Birana/issues"
+  },
+  "homepage": "https://github.com/milliongashawbeza/Birana#readme"
+}
